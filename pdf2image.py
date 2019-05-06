@@ -71,5 +71,6 @@ if __name__=='__main__':
     word = pdf2word(path)
     with open("output.txt", "w") as f:
         f.write(word)
-#image2word("D_git_python_fgw_test_【徐发改核〔2019〕1】号漕河泾街道282c-01地块租赁住房新建项目.pdf_img1.png")
+##image2word("D_git_python_fgw_test_【徐发改核〔2019〕1】号漕河泾街道282c-01地块租赁住房新建项目.pdf_img1.png")
+#image
 
